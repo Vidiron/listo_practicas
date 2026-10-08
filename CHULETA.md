@@ -7,3 +7,4 @@
 - `git diff --staged`: lo que ya está preparado
 - `git log --oneline`: el historial, un commit por línea
 - `git log --oneline`: el historial, un commit por línea
+- `git log --oneline`: el historial, un commit por línea
