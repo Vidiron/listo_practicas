@@ -1,0 +1,1 @@
+- Ctrl+Shift+C y Ctrl+Shift+V: copiar y pegar
