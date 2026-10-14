@@ -1,3 +1,4 @@
 # Sobre mí
-Usuario de GitHub: <tuusuario>
+Lenguaje favorito: Python
+Usuario de GitHub: vidiron
 Grupo de prácticas: L1
